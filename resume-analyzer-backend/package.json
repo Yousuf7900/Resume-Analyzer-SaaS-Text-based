@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@google/genai": "^1.46.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "groq-sdk": "^1.1.1",
+    "nodemon": "^3.1.14",
+    "openai": "^6.32.0"
+  },
+  "name": "resume-analyzer-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
